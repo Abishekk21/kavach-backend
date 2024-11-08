@@ -1,4 +1,4 @@
-fastapi
+streamlit
 uvicorn
 PyPDF2
 pillow
